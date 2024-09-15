@@ -1,4 +1,4 @@
-This is a simple .exe to run to convert audio files for my summer car.
+This is a simple .exe to run to convert audio files for my summer car. Download the ZIP in the releases area, extract it in your MSC directory, put mp3's in your CD/radio files, and run it.
 
 
 Note:
