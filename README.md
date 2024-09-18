@@ -7,6 +7,6 @@ Note:
 
 - This can only convert mp3's.
 
-- You must have ffmpeg.exe in the same extension, I am not the creator of ffmpeg, however I am uploading the correct file for ease of use.
+- You must have ffmpeg.exe, & ffprobe.exe in the same extension, I am not the creator of ffmpeg or ffprobe, however I am uploading the correct file for ease of use.
 
-- Both ffmpeg.exe, and this script, must be in the same directory, which is the main directory of MSC.
+- Both ffmpeg.exe, ffprobe.exe, and this script, must be in the same directory, which is the main directory of MSC.
